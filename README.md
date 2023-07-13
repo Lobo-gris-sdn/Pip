@@ -1,0 +1,2 @@
+# Pip
+pkg install pip
